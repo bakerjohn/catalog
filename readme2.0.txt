@@ -117,5 +117,3 @@ Updates-
 - Added @login_required to the newRestaurant function
 - Added @csrf exempt to gconnect in order to disable csrf protection fo 3rd party post 
 - 
-
-https://github.com/jaredwolff/nodejs-websocket-example.git
